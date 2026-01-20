@@ -1,0 +1,5 @@
+{
+  "name": "W-9 AI Extractor Pro",
+  "description": "An intelligent document processor that extracts business details, tax classifications, and TINs from W-9 forms using Gemini 3 Flash, enabling batch processing and CSV exports.",
+  "requestFramePermissions": []
+}
